@@ -1,0 +1,8 @@
+## Bu Checklist Kapital Bank rəqəmsal bankçılıq sistemində **balance inquiry** funksiyasının düzgün işləməsini yoxlamaq üçün hazırlanmışdır .
+## Preconditions
+- [ ] Users systemə uğurla **login** olub
+- [ ] User - in **active account** mövcuddur
+- [ ] **Session** aktivdir
+
+## Positive Checks
+- [ ] 
