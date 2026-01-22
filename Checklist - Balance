@@ -5,4 +5,23 @@
 - [ ] **Session** aktivdir
 
 ## Positive Checks
-- [ ] 
+- [ ] Carı **balance** düzgün göstəriir
+- [ ] **Currency** (AZN) düzgün əks olunur
+- [ ] Balance real vaxtda yenilənir
+- [ ] Bir neçə hesab olduqda düzgün hesab seçilir
+
+## Negative Checklist
+- [ ] Session bitdikdə balans göstərilmir
+- [ ] **Sevrev Error** zamanı uyğun mesaj çıxır
+- [ ] Hesab mövcud olmadıqda **error message** göstərilir
+
+## Data Consistency
+- [ ] Web və mobile platformalarda balance eynidir
+- [ ] Transfer sonrası balance yenilənir
+- [ ] Refresh etdikdə səhv məlumat göstərilir
+
+## Platform Checks
+- [ ] Web aplication ( Chrome )
+- [ ] Web aplication ( Firefox )
+- [ ] Mobile application ( Android )
+- [ ] Mobile application ( İOS )
