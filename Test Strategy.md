@@ -18,7 +18,13 @@ Aşağıdakı funksionallıqlar test edilir :
 - UI validation
 - API response validation
 - Possitive və Negative scenario
-
+  
+### Out of Scope
+Aşağıdakı testlər bu sənədə daxil deyil :
+- Performance testing
+- Security penetration testing
+- Production environment testləri
+  
 ## Test Types
 Layihədə aşağıdakı **test types** istifadə olunur :
 - Functional testing
@@ -34,9 +40,9 @@ API yoxlamaları üçün **Postman** alətindən istifadə olunur
 Test prosesinə başlamaq üçün :
 - Login funksiyası işlək olmalıdır
 - Test environment aktiv olmalıdır
-Test data mövcud olmalıdır
+- Test data mövcud olmalıdır
 
-## Exir Criteria
+## Exit Criteria
 Test prosesi aşağıdakı hallarda tamamlanmış sayılır :
 - Bütün balance testləri icra olunub
 - Crictical bug mövcud deyil
