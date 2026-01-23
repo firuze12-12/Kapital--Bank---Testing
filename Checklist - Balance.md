@@ -18,7 +18,7 @@
 ## Data Consistency
 - [ ] Web və mobile platformalarda balance eynidir
 - [ ] Transfer sonrası balance yenilənir
-- [ ] Refresh etdikdə səhv məlumat göstərilir
+- [ ] Refresh etdikdə səhv məlumat göstərilmir
 
 ## Platform Checks
 - [ ] Web aplication ( Chrome )
