@@ -15,9 +15,9 @@ Test edilən sistem aşağıdakı komponentlərdən ibarətdir :
 ### İn Scope
 Aşağıdakı funksionallıqlar test edilir :
 - Balace inquiry
--UI validation
-API response validation
-Possitive environment testləri
+- UI validation
+- API response validation
+- Possitive və Negative scenario
 
 ## Test Types
 Layihədə aşağıdakı **test types** istifadə olunur :
